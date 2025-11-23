@@ -8,9 +8,8 @@ function App() {
 
   return (
     <>
-     
-      <AppRoutes/>
-      <Header/>
+        <Header/>
+        <AppRoutes/>
     </>
   )
 }

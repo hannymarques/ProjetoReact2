@@ -23,7 +23,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  background: rgb(41, 183, 240);
   background-attachment: fixed;
 }
 

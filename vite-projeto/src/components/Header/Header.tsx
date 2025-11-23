@@ -3,11 +3,10 @@ import { DownOutlined } from '@ant-design/icons';
 import type { MenuProps } from 'antd';
 import { Dropdown, Space } from 'antd';
 
-//Eu (Hanielly) ou Eduardo precisa lembrar de importar o ant design
 
 const items: MenuProps['items'] = [
   {
-    label: <a href="/home">Home</a>,
+    label: <a href="/">Home</a>,
     key: 'home',
   },
   {
@@ -21,7 +20,7 @@ const items: MenuProps['items'] = [
 ];
 
 const Header: React.FC = () => (
-  <div style={{ padding: "16px", background: "#f0f0f0" }}>
+  <div style={{ padding: "16px", background: "#d3dadaff", borderRadius: 20, fontFamily: 'Arial, sans-serif', marginBottom: 20, }}>
     <Dropdown menu={{ items }}>
       <a onClick={(e) => e.preventDefault()}>
         <Space>
