@@ -1,0 +1,23 @@
+[33m913ffa48[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m criação de rotas, bibliotecas de componentes e mudança de arquivos para suas respectivas pastas, criação de header
+[33mb580fb61[m primeiro commit
+[33m19786426[m feat: adicionando meus hábitos
+[33m7bf27282[m ajustando o fundo da aplicação
+[33mff1e74b0[m configurando a api de pokemon no calendario
+[33m7fae9b78[m adicionar habito
+[33m5a9396f3[m refazendo o packeg json, pois deu bug na hora de rodar o npm run dev
+[33m44bf729c[m Merge pull request #2 from rafaelspi/lista-habitos
+[33md3dae393[m Merge branch 'main' into lista-habitos
+[33mcd945cf5[m Merge pull request #3 from hannymarques/main
+[33ma89d56dd[m adicionando lista de hábitos
+[33m610b3a61[m mudança no plano de fundo do projeto
+[33mb66fa02a[m corrigindo lógica de calendario e colocando a opção de selecionar mes e dia
+[33mab23de45[m mudando titulo da página
+[33m0156aee5[m ajeitando o projeto para ficar organizado e adicionei o calendario
+[33me5c45933[m importando o usestate
+[33m89ad50b1[m logica do calendario adicionada
+[33mec1c7ffd[m teste
+[33m36585edc[m instalando algumas dependencias e começando arquivo do calendario
+[33m72c2423f[m Merge pull request #1 from eduardobellini/dev
+[33mc6f6dd13[m instalando vite
+[33m6caa846b[m Update README.md
+[33m77c94da0[m Initial commit
